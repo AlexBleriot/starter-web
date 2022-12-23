@@ -24,6 +24,9 @@ file system.
 
 ## How to contribute 
 
+Please fork this repository and then issue the pull Request for
+review.
+
 
 ### Copyright
 
